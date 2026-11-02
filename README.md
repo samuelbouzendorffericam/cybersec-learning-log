@@ -14,12 +14,12 @@ Je suis étudiant en prépa ingénieur informatique à l'Icam Strasbourg-Europe 
 
 Cette liste est mon plan de travail, pas une liste de compétences acquises. Je coche au fur et à mesure.
 
-- [ ] Linux et ligne de commande : permissions, processus, redirections, scripts shell.
+- [X] Linux et ligne de commande : permissions, processus, redirections, scripts shell.
 - [ ] Réseau : modèle OSI, TCP/IP, DNS, HTTP(S), lecture de captures avec Wireshark.
-- [ ] Parcours gratuit d'initiation sur TryHackMe.
+- [X] Parcours gratuit d'initiation sur TryHackMe.
 - [ ] MOOC SecNumacadémie de l'ANSSI.
 - [ ] Failles web courantes (OWASP Top 10), entraînement sur des applications faites pour ça comme OWASP Juice Shop, en local.
-- [ ] Premières machines Hack The Box.
+- [X] Premières machines Hack The Box.
 - [ ] Un nouveau CTF.
 
 ## Glossaire
@@ -37,4 +37,4 @@ MIT, voir [LICENSE](LICENSE).
 
 ---
 
-*Réalisé avec l'aide de Claude (IA), relu et testé par l'auteur.*
+
